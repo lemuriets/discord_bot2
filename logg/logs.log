@@ -1,0 +1,228 @@
+[07-06-2021 17:51] [INFO] => the bot was started
+[07-06-2021 17:51] [INFO] => Lemuriets#7371 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:51] [INFO] => Закончился срок мьюта у <@697453480755068940>
+[07-06-2021 17:51] [INFO] => the bot was started
+[07-06-2021 17:51] [INFO] => the bot was started
+[07-06-2021 17:51] [ERROR] => Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<SlashCommand.sync_all_commands() done, defined at C:\Python3.8.5\lib\site-packages\discord_slash\client.py:294> exception=HTTPException('429 Too Many Requests (error code: 0): You are being rate limited.')>
+Traceback (most recent call last):
+  File "C:\Python3.8.5\lib\site-packages\discord_slash\client.py", line 309, in sync_all_commands
+    await self.req.put_slash_commands(slash_commands=cmds["global"], guild_id=None)
+  File "C:\Python3.8.5\lib\site-packages\discord\http.py", line 258, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+[07-06-2021 17:52] [INFO] => the bot was started
+[07-06-2021 17:52] [INFO] => Lemuriets#7371 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:52] [INFO] => Закончился срок мьюта у Helicopter45_17#3323
+[07-06-2021 17:53] [INFO] => the bot was started
+[07-06-2021 17:53] [INFO] => Lemuriets#7371 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:53] [INFO] => Закончился срок <@&851394228655226880> у Helicopter45_17#3323
+[07-06-2021 17:53] [INFO] => the bot was started
+[07-06-2021 17:54] [INFO] => the bot was started
+[07-06-2021 17:54] [INFO] => Lemuriets#7371 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:54] [INFO] => Закончился срок Mute у Helicopter45_17#3323
+[07-06-2021 17:54] [INFO] => the bot was started
+[07-06-2021 17:55] [INFO] => Lemuriets#7371 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:55] [INFO] => Закончился срок Mute у Helicopter45_17#3323
+[07-06-2021 17:56] [INFO] => Helicopter45_17#3323 выдал Mute пользователю Lemuriets#7371
+[07-06-2021 17:57] [INFO] => Lemuriets#7371 пытался снять мьют с Lemuriets#7371
+[07-06-2021 17:57] [INFO] => Helicopter45_17#3323 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:58] [INFO] => Helicopter45_17#3323 выдал Mute пользователю Helicopter45_17#3323
+[07-06-2021 17:58] [INFO] => Закончился срок Mute у Helicopter45_17#3323
+[07-06-2021 18:22] [INFO] => the bot was started
+[07-06-2021 18:22] [INFO] => Пользователь <@813032383787040768> получил предупреждение
+[07-06-2021 18:25] [INFO] => the bot was started
+[07-06-2021 18:25] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:25] [INFO] => Lemuriets#7371 выдал Mute пользователю Lemuriets#8653
+[07-06-2021 18:26] [INFO] => Lemuriets#7371 снял <@&851394228655226880> у пользователя Lemuriets#8653
+[07-06-2021 18:26] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:26] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:26] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:28] [INFO] => the bot was started
+[07-06-2021 18:28] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:28] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:29] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 18:31] [INFO] => the bot was started
+[07-06-2021 18:31] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 19:02] [INFO] => the bot was started
+[07-06-2021 19:02] [INFO] => the bot was started
+[07-06-2021 19:02] [INFO] => Пользователь ʎlexander#8785 присоединился к серверу
+[07-06-2021 19:02] [INFO] => Пользователь ʎlexander#8785 был успешно занесен в базу данных
+[07-06-2021 19:03] [INFO] => Lemuriets#7371 выдал Mute пользователю ʎlexander#8785
+[07-06-2021 19:03] [INFO] => Закончился срок Mute у ʎlexander#8785
+[07-06-2021 19:14] [ERROR] => праизашов какой та капэц в функции run_bot, иди чинить ._.
+[07-06-2021 19:16] [INFO] => the bot was started
+[07-06-2021 19:16] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 19:17] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[07-06-2021 19:37] [ERROR] => праизашов какой та капэц в функции run_bot, иди чинить ._.
+[07-06-2021 19:58] [ERROR] => праизашов какой та капэц в функции run_bot, иди чинить ._.
+[07-06-2021 20:00] [INFO] => the bot was started
+[07-06-2021 20:01] [INFO] => the bot was started
+[07-06-2021 20:02] [INFO] => the bot was started
+[07-06-2021 23:27] [INFO] => the bot was started
+[07-06-2021 23:29] [INFO] => the bot was started
+[07-06-2021 23:30] [INFO] => the bot was started
+[07-06-2021 23:32] [INFO] => the bot was started
+[07-06-2021 23:33] [INFO] => the bot was started
+[07-06-2021 23:34] [INFO] => the bot was started
+[07-06-2021 23:34] [INFO] => Пользователь Lemuriets#7371 удалил 3 сообщений в канале "основной-чат"
+[07-06-2021 23:36] [INFO] => the bot was started
+[07-06-2021 23:41] [INFO] => the bot was started
+[07-06-2021 23:42] [INFO] => the bot was started
+[07-06-2021 23:46] [INFO] => the bot was started
+[07-06-2021 23:48] [INFO] => the bot was started
+[07-06-2021 23:49] [INFO] => the bot was started
+[07-06-2021 23:49] [INFO] => Пользователь Lemuriets#7371 изменил своё описание на дурачок года, века, и вообще мира))
+[07-06-2021 23:52] [INFO] => the bot was started
+[07-06-2021 23:55] [INFO] => the bot was started
+[07-06-2021 23:56] [INFO] => the bot was started
+[07-06-2021 23:56] [INFO] => Пользователь Lemuriets#7371 удалил 10 сообщений в канале "основной-чат"
+[07-06-2021 23:57] [INFO] => the bot was started
+[07-06-2021 23:59] [INFO] => the bot was started
+[08-06-2021 00:01] [INFO] => Пользователь Lemuriets#8653 присоединился к серверу
+[08-06-2021 00:01] [INFO] => Пользователь Lemuriets#8653 был успешно занесен в базу данных
+[08-06-2021 00:02] [INFO] => Пользователь Lemuriets#8653 получил предупреждение
+[08-06-2021 00:11] [INFO] => the bot was started
+[08-06-2021 00:11] [INFO] => the bot was started
+[08-06-2021 00:12] [INFO] => the bot was started
+[08-06-2021 00:12] [ERROR] => Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<SlashCommand.sync_all_commands() done, defined at C:\Python3.8.5\lib\site-packages\discord_slash\client.py:294> exception=HTTPException('429 Too Many Requests (error code: 0): You are being rate limited.')>
+Traceback (most recent call last):
+  File "C:\Python3.8.5\lib\site-packages\discord_slash\client.py", line 309, in sync_all_commands
+    await self.req.put_slash_commands(slash_commands=cmds["global"], guild_id=None)
+  File "C:\Python3.8.5\lib\site-packages\discord\http.py", line 258, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 429 Too Many Requests (error code: 0): You are being rate limited.
+[08-06-2021 12:38] [INFO] => the bot was started
+[08-06-2021 12:40] [INFO] => the bot was started
+[08-06-2021 12:41] [INFO] => the bot was started
+[08-06-2021 17:00] [INFO] => the bot was started
+[08-06-2021 17:02] [INFO] => the bot was started
+[08-06-2021 17:03] [INFO] => the bot was started
+[08-06-2021 17:04] [INFO] => the bot was started
+[08-06-2021 17:09] [INFO] => the bot was started
+[08-06-2021 17:09] [INFO] => the bot was started
+[08-06-2021 17:14] [INFO] => the bot was started
+[08-06-2021 17:15] [INFO] => the bot was started
+[08-06-2021 17:16] [INFO] => the bot was started
+[08-06-2021 17:17] [INFO] => the bot was started
+[08-06-2021 17:18] [INFO] => the bot was started
+[08-06-2021 17:19] [INFO] => the bot was started
+[08-06-2021 17:20] [INFO] => the bot was started
+[08-06-2021 17:22] [INFO] => the bot was started
+[08-06-2021 17:23] [INFO] => the bot was started
+[08-06-2021 17:26] [INFO] => the bot was started
+[08-06-2021 17:27] [INFO] => the bot was started
+[08-06-2021 17:28] [INFO] => the bot was started
+[08-06-2021 17:28] [INFO] => Пользователь ['Lemuriets', '8653'] был разбанен
+[08-06-2021 17:30] [INFO] => the bot was started
+[08-06-2021 17:34] [INFO] => the bot was started
+[08-06-2021 17:34] [INFO] => Пользователь Lemuriets#8653 присоединился к серверу
+[08-06-2021 17:34] [INFO] => Пользователь Lemuriets#8653 был успешно занесен в базу данных
+[08-06-2021 17:35] [INFO] => Пользователь Lemuriets#8653 был разбанен
+[08-06-2021 17:42] [INFO] => the bot was started
+[08-06-2021 17:42] [INFO] => Пользователь LELMlmalkmfklalkmfam был разбанен
+[08-06-2021 17:43] [INFO] => Пользователь Lemuriets#8653 был разбанен
+[08-06-2021 17:44] [INFO] => the bot was started
+[08-06-2021 17:45] [INFO] => Пользователь test был разбанен
+[08-06-2021 17:45] [INFO] => the bot was started
+[08-06-2021 17:45] [INFO] => Пользователь Lemuriets#8653 присоединился к серверу
+[08-06-2021 17:45] [INFO] => Пользователь Lemuriets#8653 был успешно занесен в базу данных
+[08-06-2021 17:47] [INFO] => Пользователь Lemuriets#8653 был разбанен
+[08-06-2021 17:47] [INFO] => Пользователь Lemuriets#8653 присоединился к серверу
+[08-06-2021 17:47] [INFO] => Пользователь Lemuriets#8653 был успешно занесен в базу данных
+[08-06-2021 21:15] [INFO] => the bot was started
+[08-06-2021 21:15] [INFO] => the bot was started
+[08-06-2021 21:19] [INFO] => the bot was started
+[08-06-2021 21:44] [INFO] => the bot was started
+[08-06-2021 21:46] [INFO] => the bot was started
+[08-06-2021 21:50] [INFO] => the bot was started
+[08-06-2021 21:55] [INFO] => the bot was started
+[08-06-2021 21:57] [INFO] => the bot was started
+[08-06-2021 22:10] [INFO] => the bot was started
+[08-06-2021 22:12] [INFO] => the bot was started
+[08-06-2021 22:31] [INFO] => the bot was started
+[08-06-2021 22:32] [INFO] => the bot was started
+[08-06-2021 22:59] [INFO] => the bot was started
+[08-06-2021 23:01] [INFO] => Бот присоединился к серверу моя шиза
+[08-06-2021 23:02] [INFO] => Бот отключился от сервера моя шиза
+[08-06-2021 23:09] [ERROR] => Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<SlashCommand.sync_all_commands() done, defined at C:\Python3.8.5\lib\site-packages\discord_slash\client.py:294> exception=TypeError("unhashable type: 'list'")>
+Traceback (most recent call last):
+  File "C:\Python3.8.5\lib\site-packages\discord_slash\client.py", line 303, in sync_all_commands
+    cmds = await self.to_dict()
+  File "C:\Python3.8.5\lib\site-packages\discord_slash\client.py", line 216, in to_dict
+    "guild": {x: [] for x in all_guild_ids}
+  File "C:\Python3.8.5\lib\site-packages\discord_slash\client.py", line 216, in <dictcomp>
+    "guild": {x: [] for x in all_guild_ids}
+TypeError: unhashable type: 'list'
+[08-06-2021 23:09] [INFO] => the bot was started
+[08-06-2021 23:10] [INFO] => the bot was started
+[08-06-2021 23:10] [INFO] => Lemuriets#7371 выдал Mute пользователю Snar_#1164
+[08-06-2021 23:12] [INFO] => Lemuriets#7371 снял <@&851394228655226880> у пользователя Snar_#1164
+[08-06-2021 23:20] [INFO] => the bot was started
+[08-06-2021 23:20] [INFO] => Пользователь Lemuriets#8653 лишился роли Moderator
+[08-06-2021 23:20] [INFO] => Пользователь Lemuriets#8653 лишился роли Admin
+[08-06-2021 23:20] [INFO] => Пользователь Lemuriets#8653 был успешно кикнут с сервера Server for bot пользователем Lemuriets#7371
+[08-06-2021 23:20] [INFO] => Пользователь Lemuriets#8653 присоединился к серверу
+[08-06-2021 23:20] [INFO] => Пользователь Lemuriets#8653 был успешно занесен в базу данных
+[08-06-2021 23:21] [INFO] => Пользователь Lemuriets#8653 получил роль Admin
+[08-06-2021 23:26] [INFO] => the bot was started
+[08-06-2021 23:26] [INFO] => Пользователь Lemuriets#8653 был успешно кикнут с сервера Server for bot пользователем Lemuriets#7371
+[08-06-2021 23:27] [INFO] => Пользователь Lemuriets#8653 был успешно кикнут с сервера Server for bot пользователем Lemuriets#7371
+[08-06-2021 23:27] [INFO] => Пользователь Lemuriets#8653 лишился роли Admin
+[08-06-2021 23:27] [INFO] => Пользователь Lemuriets#8653 был успешно кикнут с сервера Server for bot пользователем Lemuriets#7371
+[08-06-2021 23:27] [INFO] => Пользователь Lemuriets#8653 присоединился к серверу
+[08-06-2021 23:27] [INFO] => Пользователь Lemuriets#8653 был успешно занесен в базу данных
+[08-06-2021 23:28] [INFO] => Пользователь Rythm#3722 присоединился к серверу
+[08-06-2021 23:28] [INFO] => Пользователь Rythm#3722 был успешно занесен в базу данных
+[08-06-2021 23:53] [INFO] => the bot was started
+[08-06-2021 23:55] [INFO] => the bot was started
+[08-06-2021 23:57] [INFO] => the bot was started
+[08-06-2021 23:59] [INFO] => the bot was started
+[09-06-2021 21:58] [INFO] => the bot was started
+[09-06-2021 22:00] [INFO] => the bot was started
+[09-06-2021 22:02] [INFO] => the bot was started
+[09-06-2021 22:02] [INFO] => Lemuriets#7371 снял <@&851394228655226880> у пользователя Lemuriets#8653
+[09-06-2021 22:03] [INFO] => the bot was started
+[09-06-2021 22:07] [INFO] => the bot was started
+[09-06-2021 22:07] [INFO] => the bot was started
+[09-06-2021 22:14] [INFO] => the bot was started
+[09-06-2021 22:15] [INFO] => Lemuriets#7371 снял <@&851394228655226880> у пользователя Lemuriets#8653
+[09-06-2021 22:19] [INFO] => the bot was started
+[09-06-2021 22:20] [INFO] => Пользователь Шиш#3794 присоединился к серверу
+[09-06-2021 22:20] [INFO] => Пользователь Шиш#3794 был успешно занесен в базу данных
+[09-06-2021 22:27] [INFO] => Lemuriets#7371 снял <@&851394228655226880> у пользователя Lemuriets#8653
+[09-06-2021 22:32] [INFO] => the bot was started
+[09-06-2021 22:33] [INFO] => Пользователь Lemuriets#7371 удалил 100 сообщений в канале "уведомления"
+[09-06-2021 22:35] [INFO] => the bot was started
+[09-06-2021 22:35] [INFO] => Пользователь Lemuriets#7371 использовал команду profile
+[09-06-2021 22:35] [INFO] => Пользователь Lemuriets#7371 использовал команду profile
+[09-06-2021 22:35] [INFO] => Пользователь Lemuriets#7371 использовал команду avatar
+[09-06-2021 22:36] [INFO] => Пользователь Lemuriets#7371 использовал команду report_bug
+[09-06-2021 22:36] [INFO] => the bot was started
+[09-06-2021 22:38] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:39] [INFO] => the bot was started
+[09-06-2021 22:39] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:40] [INFO] => the bot was started
+[09-06-2021 22:40] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:40] [INFO] => Lemuriets#7371 снял <@&851394228655226880> у пользователя Lemuriets#8653
+[09-06-2021 22:42] [INFO] => the bot was started
+[09-06-2021 22:42] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:42] [INFO] => the bot was started
+[09-06-2021 22:42] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:44] [INFO] => the bot was started
+[09-06-2021 22:44] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:44] [INFO] => the bot was started
+[09-06-2021 22:45] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:45] [INFO] => the bot was started
+[09-06-2021 22:46] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:46] [INFO] => the bot was started
+[09-06-2021 22:46] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:48] [INFO] => the bot was started
+[09-06-2021 22:48] [INFO] => Пользователь Lemuriets#7371 использовал команду help
+[09-06-2021 22:48] [INFO] => Пользователь Lemuriets#7371 удалил 3 сообщений в канале "основной-чат"
+[09-06-2021 22:48] [INFO] => Пользователь ʎlexander#8785 получил роль Admin
+[09-06-2021 22:48] [INFO] => Пользователь ʎlexander#8785 лишился роли Admin
+[09-06-2021 22:48] [INFO] => Пользователь ʎlexander#8785 получил роль Moderator
+[09-06-2021 22:48] [INFO] => Пользователь ʎlexander#8785 лишился роли Moderator

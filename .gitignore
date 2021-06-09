@@ -1,0 +1,11 @@
+.env
+/__pycache__
+/.vscode
+/cogs/__pycache__
+/cogs/commands/__pycache__
+/cogs/events/__pycache__
+/logg/__pycache__
+/ORM/__pycache__
+/static/__pycache__
+/static/scripts/__pycache__
+/.idea
