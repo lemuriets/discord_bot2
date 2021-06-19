@@ -1,4 +1,4 @@
-from os import getenv, listdir
+from os import getenv, listdir, path, getcwd
 
 import discord
 from discord.ext import commands
@@ -19,11 +19,17 @@ slash = SlashCommand(bot, sync_commands=True)
 
 
 def load_cogs(bot: commands.Bot) -> None:
-    for folder in listdir('cogs/'):
-        if not folder.endswith('.py'):
-            for filename in listdir(f'cogs/{folder}'):
-                if not filename.startswith('__'):
-                    bot.load_extension(f'cogs.{folder}.{filename[:-3]}')
+    try:
+        for folder in listdir('cogs/'):
+            if path.isdir(f'{getcwd()}/cogs/{folder}'):
+                for filename in listdir(f'cogs/{folder}'):
+                    if not filename.startswith('__') and filename.endswith('.py'):
+                        bot.load_extension(f'cogs.{folder}.{filename[:-3]}')
+
+                        logger.info(f'Был загружен файл {filename}')
+    except FileNotFoundError:
+        logger.error('Не удалось загрузить коги')
+        return None
 
 
 def run_bot() -> None:

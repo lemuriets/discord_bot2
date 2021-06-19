@@ -78,6 +78,5 @@ class BaseEvents(commands.Cog):
             logger.info(f'Пользователь {before} лишился роли {moder_role}')
 
 
-
 def setup(bot: commands.Bot) -> None:
     bot.add_cog(BaseEvents(bot))
