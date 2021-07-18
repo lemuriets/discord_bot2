@@ -35,8 +35,6 @@ class BaseCommands(commands.Cog):
 
         await ctx.send(embed=help_embed)
 
-        print('a,sklmasdklfnjsf')
-
     @cog_ext.cog_slash(name='profile', guild_ids=GUILD_IDS, description='Получить профиль пользователя')
     async def profile(self, ctx: SlashContext, member: discord.Member = None) -> None:
         if member is None:
